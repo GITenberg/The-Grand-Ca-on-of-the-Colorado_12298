@@ -1,0 +1,25 @@
+_repo: The-Grand-Ca-on-of-the-Colorado_12298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Grand Canyon (Ariz.) -- Description and travel'
+- GITenberg
+title: The Grand Cañon of the Colorado
+url: http://www.gutenberg.org/ebooks/12298
